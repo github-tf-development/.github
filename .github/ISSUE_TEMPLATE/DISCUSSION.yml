@@ -1,0 +1,10 @@
+name: "Discussion"
+description: Create a new ticket for Discussion.
+title: "[Discussion] - <about>"
+body:
+- type: markdown
+  attributes:
+    value: "Discussions are the important!"
+- type: textarea
+  attributes:
+    label: "Place for Discussion"
